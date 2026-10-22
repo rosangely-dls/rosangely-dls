@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Rose ✨
 
-<!--
-**rosangely-dls/rosangely-dls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 Full-stack developer and founder of [Aureli Design](https://www.aurelidesign.com)
 
-Here are some ideas to get you started:
+I came into tech from caregiving, esthetics, and client-facing work, and I love building things that make people's lives a little easier. 🤍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I'm up to
+- 🌿 Running **Aureli Design**, where I design and build websites for small businesses, especially beauty professionals like estheticians, salon owners, and spa owners (client code lives in private repos)
+- 🌱 Looking for a junior software engineering role where my work has a real, positive impact on people
+- 📚 Always learning something new
+
+### 🛠️ What I work with
+JavaScript · TypeScript · React · React Native · Next.js · Node.js · Express · MongoDB · Supabase · Git
+
+### 🎓 Background
+Full-stack JavaScript certification through Code the Dream
+
+### 💌 Let's connect
+[LinkedIn](https://www.linkedin.com/in/rosangely-d-44891a217) · [Aureli Design](https://www.aurelidesign.com) · lee.rosangely@gmail.com
